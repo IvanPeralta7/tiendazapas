@@ -1,0 +1,119 @@
+.title{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: 10rem 0 0 0;
+    letter-spacing: 10px;
+    color:rgb(16, 80, 119);
+  }
+  
+  .productos{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(22rem,1fr));
+    gap: 3rem 1rem;
+    box-sizing: border-box;
+  }
+
+
+  .MuiCard-root{
+    z-index: 0;
+    text-align: center;
+ }
+ .MuiCardActions-root{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }  
+ 
+ /*Footer*/
+
+footer{
+  width: 1600px;
+  min-height: 100px;
+  max-width: 1530px;
+  text-align: center;
+  box-shadow: border-box;
+  background-color: ghostwhite;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+footer p{
+  margin-top: 2rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+
+/*Detalles producto*/
+.details{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 13rem 1rem 0 1rem;
+    box-sizing: border-box;
+  }
+  
+  .details h2{
+    font-size: 3rem;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 2.5rem;
+    font-family: Helvetica, sans-serif;
+    color: whitesmoke;
+  }
+  
+  .details .price{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(16, 80, 119);
+  }
+  
+  .details img{
+    height: 800px;
+    min-height: 300px;
+    object-fit: contain;
+    margin-top: -7rem;
+    z-index: -1;
+  }
+  
+  .details .grid{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+  }
+  
+  .details input{
+    max-width: 700px;
+  }
+  
+  .details .description{
+    font-size: 1.1rem;
+    width: 100%;
+    max-width: 1300px;
+    letter-spacing: 1px;
+    color: #5f5d5d;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+  .details .description b{
+    font-size: 1.4rem;
+    color:#30333a;
+  }
+  
+  .relations{
+    text-align: center;
+    background: #2e2e2e;
+    color: white;
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }

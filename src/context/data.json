@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "Nike LD Waffle Sacai Black Nylon",
+        "price": 10401,
+        "image": "/images/img01.jpg",
+        "category": "Deportivas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Las LD Waffle conquistaron el mundo de las zapatillas cuando debutaron originalmente en el desfile Primavera/Verano 2019 de Sacai junto con una colaboración con Nike Blazer. Solo tenía sentido que las dos compañías mantuvieran vivo este modelo, pero lo presentaran en nuevas combinaciones de colores y materiales."
+      },
+      {
+        "id": 2,
+        "title": "Nike Dunk Low Off-White Pine Green",
+        "price": 12304,
+        "image": "/images/img02.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"La edición Pine Green de las Nike Dunk Low cuenta con una base de cuero blanco en capas con inserciones de cuero verde abeto y cordones naranjas para estructurar el par. "
+      },
+      {
+        "id": 3,
+        "title": "Nike Air Force 1 Low Supreme Black",
+        "price": 11475,
+        "image": "/images/img03.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Las zapatillas Supreme x Nike Air Force 1 Low Black son una colaboración elegante y sutil. La silueta se mantiene minimalista añadiendo el conocido logo al costado, en las en los pasadores y en la suela de goma. Están hechas cuero color negro y viene con 2 pares de cordones; unos negros con las letras de Supreme en blanco y otros completamente negros. Se considera uno de los sneakers más codiciados y difíciles de encontrar de todo el mundo."
+    },
+      {
+        "id": 4,
+        "title": "Nike LD Waffle Sacai White Nylon",
+        "price": 9399,
+        "image": "/images/img04.jpg",
+        "category": "Deportivas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Las LD Waffle conquistaron el mundo de las zapatillas cuando debutaron originalmente en el desfile Primavera/Verano 2019 de Sacai junto con una colaboración con Nike Blazer. Solo tenía sentido que las dos compañías mantuvieran vivo este modelo, pero lo presentaran en nuevas combinaciones de colores y materiales."
+      },
+      {
+        "id": 5,
+        "title": "Nike Dunk Low SP Kentucky (2021)",
+        "price": 8405,
+        "image": "/images/img05.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Con su icónico diseño de baloncesto, las Nike Dunk Low devuelven el estilo vintage de los 80 a las calles, y su zona del tobillo acolchada y de perfil bajo te permite jugar con comodidad donde quieras."
+      },
+      {
+        "id": 6,
+        "title": "Nike Dunk Low Off-White University",
+        "price": 10285,
+        "image": "/images/img06.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Después de colaborar en una gran cantidad de modelos Nike de archivo, Abloh aplica su oficio a un favorito personal suyo al equipar al Dunk con algunas actualizaciones únicas. Una base de cuero University Gold cubre la puntera y el cuello del tobillo. Las superposiciones de cuero marino contrastan los paneles amarillos brillantes en el antepié, los dedos del pie, los ojales y el talón con la marca Swoosh marina situada en el panel medio. Los cordones azules tradicionales aparecen donde siempre han estado, aunque Abloh opta por añadir un segundo conjunto de cordones naranja brillante de una manera escalonada en toda la parte superior."
+      },
+      {
+        "id": 7,
+        "title": "Zapatillas Nike Zoom Gravity",
+        "price": 12360,
+        "image": "/images/img07.jpg",
+        "category": "Deportivas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Acumulá kilómetros con estas zapatillas de running livianas que te ofrecen una excelente comodidad y amortiguación mientras corrés en las calles o en el gimnasio. Incorporan un exterior liviano en una mezcla de materiales y un refuerzo en la zona media del pie que garantiza una mayor sujeción."
+      },
+      {
+        "id": 8,
+        "title": "Nike Air Force 1 Low CLOT Blue Silk",
+        "price": 8335,
+        "image": "/images/img08.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Las Nike Air Force 1 Low Clot Blue Silk presentan una parte superior de satén azul real con un patrón tonal que simboliza la buena suerte y la prosperidad. Los swooshes laterales, que se presentan en el mismo azul que el resto de la base, están hechos de un cuero suave. Por último, una entresuela blanca y una suela de goma completan el par."
+      },
+      {
+        "id": 9,
+        "title": "Nike Air Max 90 OG Volt (2020)",
+        "price": 11799,
+        "image": "/images/img09.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"En la Cápsula Nike Air Max 90 VOLT, Estos retro para correr de Nike serán los que se lanzaron para celebrar su 30 aniversario de la silueta aquí en 2020. Vean nuestras tomas acompañadas de historia y aquí, donde conseguirlos."
+      },
+      {
+        "id": 10,
+        "title": "Nike Dunk High Varsity Maize",
+        "price": 14501,
+        "image": "/images/img10.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Antes de imponerse como ícono de la moda urbana y calzado básico de skateboarding, el Dunk comenzó su recorrido en las canchas universitarias. El diseño causó sensación en 1985 cuando se estrenó en un pack de productos coordinados por colores para programas universitarios. "
+      },
+      {
+        "id": 11,
+        "title": "Nike Air Rubber Dunk Off-White UNC",
+        "price": 9377,
+        "image": "/images/img011.jpg",
+        "category": "Urbanas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"El fundador de Off-White, Virgil Abloh, está de vuelta, recreando las icónicas siluetas de Nike de la única manera que puede. Esta vez, Abloh se hizo cargo del Nike Dunk para crear una versión híbrida del calzado, el Nike Off White Rubber Dunk UNC. El Off White Rubber Dunk, apodado UNC, se inspira en una de las combinaciones de colores más exitosas de Jordan. Una mezcla ecléctica de azules, blancos y grises se extiende por toda la parte superior, mientras que también se presentan detalles de goma."
+      },
+      {
+        "id": 12,
+        "title": "Zapatillas Nike Revolution 6 Next Nature",
+        "price": 12500,
+        "image": "/images/img012.jpg",
+        "category": "Deportivas",
+        "brand":"Nike",
+        "cantidad":1,
+        "description":"Suma más y más kilómetros con tus Zapatillas Nike Revolution 6 Next Nature, que aportan amortiguación y confort a cada paso que des. Su capellada transpirable y suela diseñada por computadora para una mejor tracción son ideales hasta para los corredores más exigentes."
+      },
+      {
+        "id": 13,
+        "title": "Zapatillas Adidas Run Falcon",
+        "price": 16840,
+        "image": "/images/img013.jpg",
+        "category": "Deportivas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Acumulá kilómetros con estas zapatillas de running livianas que te ofrecen una excelente comodidad y amortiguación mientras corrés en las calles o en el gimnasio. Incorporan un exterior liviano en una mezcla de materiales y un refuerzo en la zona media del pie que garantiza una mayor sujeción."
+      },
+      {
+        "id": 14,
+        "title": "Zapatillas Adidas Ultraboost 22",
+        "price": 14500,
+        "image": "/images/img014.jpg",
+        "category": "Deportivas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Disfruta de una comodidad y respuesta increíbles con estas zapatillas de running Ultraboost. Presentan una mediasuela BOOST que te proporciona un retorno de energía sin límites, un sistema Linear Energy Push y una suela con compuesto de caucho Continental™."
+      },
+      {
+        "id": 15,
+        "title": "Zapatillas Adidas Climacool Ventania",
+        "price": 15100,
+        "image": "/images/img015.jpg",
+        "category": "Deportivas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Inspira. Espira. Da una zancada tras otra. Estas zapatillas de running adidas te permiten concentrarte en tu carrera a pesar del calor. Presentan una parte superior de malla transpirable y una mediasuela con tecnología Bounce que proporciona una mayor amortiguación. La suela con ventilación mantiene tus pies frescos."
+      },
+      {
+        "id": 16,
+        "title": "Zapatillas Adidas ClimaCool Vent Heat Ready",
+        "price": 14870,
+        "image": "/images/img016.jpg",
+        "category": "Deportivas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Climacool Vent es un nuevo producto para Unisex de adidas."
+      },
+      {
+        "id": 17,
+        "title": "Zapatillas Adidas Busenitz",
+        "price": 16200,
+        "image": "/images/img017.jpg",
+        "category": "Urbanas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"En adidas queremos ofrecerte lo mejor en cada disciplina, por eso nos aliamos con el skater Dennis Busenitz para crear una línea de zapatillas que te permitirá potenciar tu rendimiento sobre la tabla. Las Busenitz cuentan con los sistemas de agarre de máximo nivel para garantizar una mayor estabilidad y sujeción en cada uno de tus movimientos."
+      },
+      {
+        "id": 18,
+        "title": "Zapatillas Adidas Forum Mid",
+        "price": 20400,
+        "image": "/images/img018.jpg",
+        "category": "Urbanas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Tomemos un momento para rendir homenaje a un ícono. ¿Será la leyenda que desafiaba la gravedad en los años 80? ¿O tal vez las zapatillas que le daban estatus a los pies de raperos? De hecho, ambas. Las zapatillas adidas Forum han dominado las canchas de básquet y las calles, y ahora regresan con una versión de corte medio para llevar tus pasos a otro nivel. "
+      },
+      {
+        "id": 19,
+        "title": "Zapatillas Adidas Retrovulc",
+        "price": "18550",
+        "image": "/images/img019.jpg",
+        "category": "Urbanas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"Retrovulc es un nuevo producto para Hombre de adidas."
+      },
+      {
+        "id": 20,
+        "title": "Zapatillas Adidas Tyshawn Low",
+        "price": "17610",
+        "image": "/images/img020.jpg",
+        "category": "Urbanas",
+        "brand":"Adidas",
+        "cantidad":1,
+        "description":"El legado de Tyshawn Jones continúa con un diseño de corte bajo en cuero blanco prémium a tres tonos, las Tyshawn Low mantienen sus líneas icónicas. El refuerzo Adituff en la punta y el soporte de suela tipo cupsole proporcionan comodidad y control al diseño inspirado en las canchas."
+      }
+]
